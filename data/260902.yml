@@ -1,0 +1,61 @@
+about:
+  description: Automate Kubernetes Configuration Editing
+  license: Apache-2.0
+  homepage: https://kpt.dev
+  head: 18dff10
+  archived: false
+  latestVersion: v1.0.0
+  collectedAt: 2026-09-02T04:22:15Z
+timeline:
+  created: 2019-09-16
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 1891
+  watcher: 35
+  fork: 262
+  release: 138
+  contributor: 125
+  pullRequest: 358
+  issue: 1972
+language:
+  Go: 1578267
+  Shell: 93179
+  Makefile: 9308
+  Ruby: 1141
+  Dockerfile: 977
+  jq: 323
+totalLine: 1683195
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 5
+    mergedPR: 21
+    openPR: 13
+    closedIssue: 0
+    openIssue: 7
+    commit: 26
+  last90d:
+    since: 2026-06-04
+    release: 14
+    mergedPR: 79
+    openPR: 14
+    closedIssue: 13
+    openIssue: 17
+    commit: 87
+  last180d:
+    since: 2026-03-06
+    release: 19
+    mergedPR: 126
+    openPR: 15
+    closedIssue: 37
+    openIssue: 47
+    commit: 199
+  last360d:
+    since: 2025-09-07
+    release: 27
+    mergedPR: 206
+    openPR: 16
+    closedIssue: 73
+    openIssue: 74
+    commit: 327
