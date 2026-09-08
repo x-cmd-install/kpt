@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19057641,
       "digest": "sha256:3d8cba94ee629e4183f0083cfcf4bf0cf6e797bb0dcfdf997a0130fbc6590ef0",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-08-31T12:11:17Z",
       "updated_at": "2026-08-31T12:11:18Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_darwin_arm64-1.0.0.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 66355362,
       "digest": "sha256:e199f8accb96af31ce931aad4e34e8c5f5957d7ed771ebee170ea628ab97bbd4",
-      "download_count": 68,
+      "download_count": 71,
       "created_at": "2026-08-31T12:11:13Z",
       "updated_at": "2026-08-31T12:11:16Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 20335101,
       "digest": "sha256:7fee610c9b9b34aa57d838023a4ad879f902fd24a63bfd9c485df7bd282919da",
-      "download_count": 24,
+      "download_count": 34,
       "created_at": "2026-08-31T12:11:17Z",
       "updated_at": "2026-08-31T12:11:18Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_amd64-1.0.0.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18170896,
       "digest": "sha256:b2e89fad0205af5dacf6036b7ceea42040bdbdb91ade639102dac494dc4e76d2",
-      "download_count": 9,
+      "download_count": 54,
       "created_at": "2026-08-31T12:11:13Z",
       "updated_at": "2026-08-31T12:11:15Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_arm64-1.0.0.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16374,
       "digest": "sha256:4439e7cd7fe909ad9a387e85a6eca56e1a1020d31800185eec00f152e4afc84d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-31T12:12:18Z",
       "updated_at": "2026-08-31T12:12:19Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/multiple.intoto.jsonl"
@@ -400,5 +400,17 @@
   "tarball_url": "https://api.github.com/repos/kptdev/kpt/tarball/v1.0.0",
   "zipball_url": "https://api.github.com/repos/kptdev/kpt/zipball/v1.0.0",
   "body": "## What's Changed\r\n* Remove local VERSIONING.md in favour of governance reference by @aravindtga in https://github.com/kptdev/kpt/pull/4687\r\n* Docs: Migrate internal links to relref and fix spelling errors by @aravindtga in https://github.com/kptdev/kpt/pull/4700\r\n* Docs: Clarify the use of --reconcile-timeout in getting-started guide by @aravindtga in https://github.com/kptdev/kpt/pull/4689\r\n* Docs: Enforce documentation style guide with spelling check and style fixes by @aravindtga in https://github.com/kptdev/kpt/pull/4690\r\n* Add needs step to save PR num by @efiacor in https://github.com/kptdev/kpt/pull/4699\r\n* feat: Add CEL-based conditional function execution (#4388) by @SurbhiAgarwal1 in https://github.com/kptdev/kpt/pull/4469\r\n* Add sonar fix and debug logging by @efiacor in https://github.com/kptdev/kpt/pull/4706\r\n* Remove internal dir from sonar reporting by @efiacor in https://github.com/kptdev/kpt/pull/4712\r\n* Docs: use Docsy alert shortcode for notes and warnings by @aravindtga in https://github.com/kptdev/kpt/pull/4703\r\n* Refactor: Move setup-go-kpt composite action from porch to kpt by @aravindtga in https://github.com/kptdev/kpt/pull/4709\r\n* fix: Improve CEL conditional execution consistency and test coverage by @aravindtga in https://github.com/kptdev/kpt/pull/4713\r\n* Docs: Rationalize and document local-config annotation in the book by @aravindtga in https://github.com/kptdev/kpt/pull/4679\r\n* Bump API dependency for v1.0.0 by @mozesl-nokia in https://github.com/kptdev/kpt/pull/4718\r\n\r\n\r\n**Full Changelog**: https://github.com/kptdev/kpt/compare/v1.0.0-beta.68...v1.0.0",
+  "reactions": {
+    "url": "https://api.github.com/repos/kptdev/kpt/releases/379713847/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 4
 }
