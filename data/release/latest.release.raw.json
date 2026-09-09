@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 712,
       "digest": "sha256:b8b0ca10c5863da56e06dd47c36805183bfd9914b52415b3586c7a81fa9197da",
-      "download_count": 22,
+      "download_count": 25,
       "created_at": "2026-08-31T12:11:18Z",
       "updated_at": "2026-08-31T12:11:18Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19057641,
       "digest": "sha256:3d8cba94ee629e4183f0083cfcf4bf0cf6e797bb0dcfdf997a0130fbc6590ef0",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-08-31T12:11:17Z",
       "updated_at": "2026-08-31T12:11:18Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_darwin_arm64-1.0.0.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 66355362,
       "digest": "sha256:e199f8accb96af31ce931aad4e34e8c5f5957d7ed771ebee170ea628ab97bbd4",
-      "download_count": 76,
+      "download_count": 82,
       "created_at": "2026-08-31T12:11:13Z",
       "updated_at": "2026-08-31T12:11:16Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 20335101,
       "digest": "sha256:7fee610c9b9b34aa57d838023a4ad879f902fd24a63bfd9c485df7bd282919da",
-      "download_count": 51,
+      "download_count": 78,
       "created_at": "2026-08-31T12:11:17Z",
       "updated_at": "2026-08-31T12:11:18Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_amd64-1.0.0.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18170896,
       "digest": "sha256:b2e89fad0205af5dacf6036b7ceea42040bdbdb91ade639102dac494dc4e76d2",
-      "download_count": 140,
+      "download_count": 255,
       "created_at": "2026-08-31T12:11:13Z",
       "updated_at": "2026-08-31T12:11:15Z",
       "browser_download_url": "https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_arm64-1.0.0.tar.gz"

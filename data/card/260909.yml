@@ -2,93 +2,93 @@ about:
   description: "Automate Kubernetes Configuration Editing"
   license: Apache-2.0
   homepage: https://kpt.dev
-  head: e1bcb2d
+  head: e483aaf
   archived: false
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: "v1.0.0-beta.68"
-  collectedAt: 2026-09-09T02:39:37Z
+  collectedAt: 2026-09-09T18:23:13Z
 timeline:
   created: 2019-09-16
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-31
   lastRelease: 2026-08-31
   lastPrerelease: 2026-08-13
 popularity:
   star: 1892
   watcher: 35
-  fork: 263
+  fork: 264
   release: 138
   contributor: 127
-  pullRequest: 2661
+  pullRequest: 2663
   issue: 1978
 language:
   Go: 1593920
-  Shell: 93179
+  Shell: 95835
   Makefile: 9308
   Ruby: 1133
   Dockerfile: 977
   jq: 323
-totalBytes: 1698840
+totalBytes: 1701496
 recent:
   last30d:
     since: 2026-08-10
     release: 5
-    mergedPR: 18
+    mergedPR: 20
     openPR: 8
     closedIssue: 4
     openIssue: 9
-    commit: 21
+    commit: 23
   last60d:
     since: 2026-07-11
     release: 8
-    mergedPR: 56
+    mergedPR: 58
     openPR: 11
     closedIssue: 8
     openIssue: 12
-    commit: 57
+    commit: 59
   last90d:
     since: 2026-06-11
     release: 13
-    mergedPR: 81
+    mergedPR: 83
     openPR: 11
     closedIssue: 15
     openIssue: 14
-    commit: 85
+    commit: 87
   last180d:
     since: 2026-03-13
     release: 19
-    mergedPR: 131
+    mergedPR: 133
     openPR: 12
     closedIssue: 41
     openIssue: 49
-    commit: 191
+    commit: 193
   last360d:
     since: 2025-09-14
     release: 26
-    mergedPR: 212
+    mergedPR: 214
     openPR: 13
     closedIssue: 77
     openIssue: 76
-    commit: 333
+    commit: 335
   last720d:
     since: 2024-09-19
     release: 29
-    mergedPR: 244
+    mergedPR: 246
     openPR: 13
     closedIssue: 90
     openIssue: 78
-    commit: 463
+    commit: 465
 total:
   release: 138
-  mergedPR: 2305
+  mergedPR: 2307
   openPR: 15
-  closedIssue: 1655
-  openIssue: 323
-  commit: 3133
+  closedIssue: 1657
+  openIssue: 321
+  commit: 3135
 ---
 path: /home/runner/.x-repo/github.com/kptdev/kpt
-collectedAt: 2026-09-09T02:39:43Z
+collectedAt: 2026-09-09T18:23:26Z
 loc:
   Go:
     code: 50096
@@ -106,10 +106,10 @@ loc:
     blanks: 0
     files: 57
   Sh:
-    code: 2159
-    comments: 565
-    blanks: 312
-    files: 16
+    code: 2219
+    comments: 579
+    blanks: 328
+    files: 17
   Sass:
     code: 1297
     comments: 72
@@ -162,19 +162,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 5438
-    blanks: 2364
-    files: 91
+    comments: 5851
+    blanks: 2519
+    files: 96
   Text:
     code: 0
     comments: 47
     blanks: 4
     files: 7
 total:
-  code: 79424
-  comments: 26083
-  blanks: 9636
-  files: 1120
+  code: 79773
+  comments: 26524
+  blanks: 9834
+  files: 1126
 ---
 
 ---
