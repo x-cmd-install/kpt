@@ -4,7 +4,7 @@
 
 Automate Kubernetes Configuration Editing
 
-![kpt](https://repo.x-cmd.io/kpt.svg)
+![kpt](https://repo.x-cmd.io/kpt.svg?lang=zh)
 
 ## 安装
 
@@ -21,34 +21,48 @@ x install kpt
 ## 发布
 
 - **最新版本**: `v1.0.0` (2026-08-31)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-31T11:53:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kptdev/kpt/releases/download/v1.0.0/checksums.txt) | 712 B | `other` |
+| [kpt_darwin_amd64](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_darwin_amd64) | 64.6 MiB | `native/darwin/x64` |
+| [kpt_darwin_amd64-1.0.0.tar.gz](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_darwin_amd64-1.0.0.tar.gz) | 19.8 MiB | `native/darwin/x64` |
+| [kpt_darwin_arm64](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_darwin_arm64) | 60.8 MiB | `native/darwin/arm64` |
+| [kpt_darwin_arm64-1.0.0.tar.gz](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_darwin_arm64-1.0.0.tar.gz) | 18.2 MiB | `native/darwin/arm64` |
+| [kpt_linux_amd64](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_amd64) | 63.3 MiB | `native/linux/x64` |
+| [kpt_linux_amd64-1.0.0.tar.gz](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_amd64-1.0.0.tar.gz) | 19.4 MiB | `native/linux/x64` |
+| [kpt_linux_arm64](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_arm64) | 59.1 MiB | `native/linux/arm64` |
+| [kpt_linux_arm64-1.0.0.tar.gz](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_arm64-1.0.0.tar.gz) | 17.3 MiB | `native/linux/arm64` |
+| [multiple.intoto.jsonl](https://github.com/kptdev/kpt/releases/download/v1.0.0/multiple.intoto.jsonl) | 16.0 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 1,892 · **Fork**: 264 · **开放 issue**: 1,978 · **贡献者**: 127
+- **Star**: 1,893 · **Fork**: 264 · **开放 issue**: 1,979 · **贡献者**: 128
 
 ## 累计统计
 
-- **发布数**: 138 · **已合并 PR**: 2307 · **开放 PR**: 15 · **已关闭 issue**: 1657 · **开放 issue**: 321 · **提交数**: 3135
+- **发布数**: 138 · **已合并 PR**: 2310 · **开放 PR**: 12 · **已关闭 issue**: 1660 · **开放 issue**: 319 · **提交数**: 3138
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 20 | 8 | 4 | 9 | 23 |
-| 90d | 2026-06-12 | 13 | 83 | 11 | 14 | 14 | 87 |
-| 360d | 2025-09-15 | 26 | 214 | 13 | 77 | 76 | 335 |
+| 30d | 2026-08-11 | 5 | 22 | 6 | 4 | 10 | 26 |
+| 90d | 2026-06-12 | 13 | 86 | 8 | 14 | 15 | 90 |
+| 360d | 2025-09-15 | 26 | 217 | 10 | 77 | 77 | 338 |
 
 ## 代码规模
 
-合计: **76,765** 行代码（覆盖前 5 种语言、共 **969** 个文件）。
+合计: **77,352** 行代码（覆盖前 5 种语言、共 **969** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 50,096 | 7,919 | 6,081 | 270 |
-| Yaml | 16,981 | 5,403 | 302 | 606 |
+| Go | 50,684 | 7,955 | 6,126 | 270 |
+| Yaml | 16,980 | 5,403 | 301 | 606 |
 | Svg | 4,526 | 5,981 | 0 | 57 |
 | Sh | 2,219 | 579 | 328 | 17 |
 | Sass | 1,297 | 72 | 142 | 19 |
@@ -62,4 +76,4 @@ kpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:41:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:50:36Z._
