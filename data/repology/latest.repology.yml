@@ -22,6 +22,20 @@
     - zxp19821005@aur
   licenses:
     - Apache-2.0
+- repo: homebrew
+  srcname: kpt
+  visiblename: kpt
+  version: 1.0.0
+  origversion: null
+  status: newest
+  summary: Toolchain for composing, customizing, and deploying Kubernetes packages
+- repo: homebrew
+  srcname: kpt
+  visiblename: kpt
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Toolchain for composing, customizing, and deploying Kubernetes packages
 - repo: nix_stable_24_05
   srcname: kpt
   visiblename: kpt
