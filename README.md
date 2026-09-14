@@ -38,7 +38,7 @@ Total: **77,352** lines of code across **969** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,893 · **Forks**: 264 · **Open issues**: 1,979 · **Contributors**: 128
+- **Stars**: 1,895 · **Forks**: 264 · **Open issues**: 1,979 · **Contributors**: 128
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **77,352** lines of code across **969** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 16 | 7 | 4 | 8 | 20 |
-| last60d | 2026-07-15 | 5 | 58 | 9 | 8 | 13 | 52 |
-| 90d | 2026-06-15 | 13 | 84 | 10 | 14 | 15 | 85 |
-| last180d | 2026-03-17 | 19 | 136 | 11 | 41 | 50 | 194 |
-| 360d | 2025-09-18 | 26 | 216 | 12 | 77 | 76 | 338 |
-| last720d | 2024-09-23 | 29 | 249 | 12 | 90 | 79 | 468 |
+| 30d | 2026-08-15 | 2 | 16 | 7 | 4 | 8 | 20 |
+| last60d | 2026-07-16 | 5 | 53 | 9 | 8 | 12 | 52 |
+| 90d | 2026-06-16 | 13 | 83 | 10 | 14 | 15 | 85 |
+| last180d | 2026-03-18 | 19 | 135 | 11 | 40 | 49 | 194 |
+| 360d | 2025-09-19 | 26 | 216 | 12 | 77 | 76 | 338 |
+| last720d | 2024-09-24 | 29 | 249 | 12 | 90 | 79 | 468 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Total: **77,352** lines of code across **969** files in the top 5 languages.
 | [kpt_linux_arm64-1.0.0.tar.gz](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_arm64-1.0.0.tar.gz) | 17.3 MiB | `native/linux/arm64` |
 | [multiple.intoto.jsonl](https://github.com/kptdev/kpt/releases/download/v1.0.0/multiple.intoto.jsonl) | 16.0 KiB | `other` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/kpt). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.0.0` | ✅ latest |
-| Nix unstable | `1.0.0-beta55` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kpt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +79,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T02:42:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T02:57:59Z._

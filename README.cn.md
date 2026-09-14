@@ -38,7 +38,7 @@ x install kpt
 
 ## 流行度
 
-- **Star**: 1,893 · **Fork**: 264 · **开放 issue**: 1,979 · **贡献者**: 128
+- **Star**: 1,895 · **Fork**: 264 · **开放 issue**: 1,979 · **贡献者**: 128
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install kpt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 16 | 7 | 4 | 8 | 20 |
-| last60d | 2026-07-15 | 5 | 58 | 9 | 8 | 13 | 52 |
-| 90d | 2026-06-15 | 13 | 84 | 10 | 14 | 15 | 85 |
-| last180d | 2026-03-17 | 19 | 136 | 11 | 41 | 50 | 194 |
-| 360d | 2025-09-18 | 26 | 216 | 12 | 77 | 76 | 338 |
-| last720d | 2024-09-23 | 29 | 249 | 12 | 90 | 79 | 468 |
+| 30d | 2026-08-15 | 2 | 16 | 7 | 4 | 8 | 20 |
+| last60d | 2026-07-16 | 5 | 53 | 9 | 8 | 12 | 52 |
+| 90d | 2026-06-16 | 13 | 83 | 10 | 14 | 15 | 85 |
+| last180d | 2026-03-18 | 19 | 135 | 11 | 40 | 49 | 194 |
+| 360d | 2025-09-19 | 26 | 216 | 12 | 77 | 76 | 338 |
+| last720d | 2024-09-24 | 29 | 249 | 12 | 90 | 79 | 468 |
 
 ## Release 资产
 
@@ -70,15 +70,6 @@ x install kpt
 | [kpt_linux_arm64-1.0.0.tar.gz](https://github.com/kptdev/kpt/releases/download/v1.0.0/kpt_linux_arm64-1.0.0.tar.gz) | 17.3 MiB | `native/linux/arm64` |
 | [multiple.intoto.jsonl](https://github.com/kptdev/kpt/releases/download/v1.0.0/multiple.intoto.jsonl) | 16.0 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kpt) 上共有 **10** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.0.0` | ✅ latest |
-| Nix unstable | `1.0.0-beta55` | ⚠️ outdated |
-
 ## 改进这些数据
 
 kpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kpt` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +79,4 @@ kpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T02:42:34Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T02:57:59Z._
