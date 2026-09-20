@@ -4,7 +4,7 @@
 
 Automate Kubernetes Configuration Editing
 
-![kpt](https://repo.x-cmd.io/kpt.svg)
+[![x-cmd/install — kpt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kpt.svg)](https://x-cmd.com/install/kpt)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **78,059** lines of code across **968** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,894 · **Forks**: 265 · **Open issues**: 1,983 · **Contributors**: 130
+- **Stars**: 1,896 · **Forks**: 265 · **Open issues**: 1,983 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 2316 · **Open PRs**: 15 · **Closed issues**: 1675 · **Open issues**: 308 · **Commits**: 3144
+- **Releases**: 138 · **Merged PRs**: 2316 · **Open PRs**: 16 · **Closed issues**: 1675 · **Open issues**: 308 · **Commits**: 3144
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 16 | 10 | 4 | 10 | 26 |
-| last60d | 2026-07-20 | 5 | 53 | 10 | 7 | 14 | 58 |
-| 90d | 2026-06-20 | 11 | 86 | 11 | 15 | 17 | 91 |
-| last180d | 2026-03-22 | 19 | 140 | 12 | 43 | 50 | 200 |
-| 360d | 2025-09-23 | 26 | 222 | 13 | 80 | 77 | 344 |
-| last720d | 2024-09-28 | 29 | 255 | 13 | 93 | 80 | 474 |
+| 30d | 2026-08-21 | 2 | 14 | 11 | 4 | 10 | 25 |
+| last60d | 2026-07-22 | 5 | 52 | 11 | 7 | 14 | 53 |
+| 90d | 2026-06-22 | 11 | 86 | 12 | 15 | 17 | 91 |
+| last180d | 2026-03-24 | 19 | 139 | 13 | 43 | 50 | 198 |
+| 360d | 2025-09-25 | 26 | 222 | 14 | 80 | 77 | 342 |
+| last720d | 2024-09-30 | 29 | 255 | 14 | 93 | 80 | 474 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:46:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:57:40Z._
