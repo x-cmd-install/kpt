@@ -14,7 +14,7 @@ x install kpt
 
 ## Code insight
 
-Total: **86,461** lines of code across **1025** files in the top 5 languages.
+Total: **86,465** lines of code across **1025** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **86,461** lines of code across **1025** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.2-pre.2` (2026-09-25)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-28
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 1,900 · **Forks**: 272 · **Open issues**: 1,999 · **Contributors**: 134
+- **Stars**: 1,901 · **Forks**: 273 · **Open issues**: 2,000 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 2353 · **Open PRs**: 17 · **Closed issues**: 1712 · **Open issues**: 287 · **Commits**: 3181
+- **Releases**: 143 · **Merged PRs**: 2354 · **Open PRs**: 21 · **Closed issues**: 1720 · **Open issues**: 280 · **Commits**: 3182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 21 | 10 | 4 | 9 | 23 |
-| last60d | 2026-08-29 | 7 | 48 | 13 | 15 | 14 | 55 |
-| 90d | 2026-07-30 | 10 | 77 | 13 | 19 | 17 | 88 |
-| last180d | 2026-05-01 | 22 | 154 | 13 | 45 | 41 | 207 |
-| 360d | 2025-11-02 | 30 | 239 | 15 | 78 | 64 | 344 |
-| last720d | 2024-11-07 | 34 | 293 | 15 | 107 | 82 | 511 |
+| 30d | 2026-09-29 | 3 | 21 | 13 | 4 | 10 | 24 |
+| last60d | 2026-08-30 | 7 | 49 | 17 | 15 | 15 | 56 |
+| 90d | 2026-07-31 | 10 | 77 | 17 | 19 | 18 | 89 |
+| last180d | 2026-05-02 | 22 | 155 | 17 | 45 | 42 | 208 |
+| 360d | 2025-11-03 | 30 | 235 | 19 | 78 | 65 | 345 |
+| last720d | 2024-11-08 | 34 | 294 | 19 | 107 | 83 | 512 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T03:37:39Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T03:58:23Z._
