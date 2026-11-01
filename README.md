@@ -48,12 +48,12 @@ Total: **86,610** lines of code across **1025** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 21 | 8 | 4 | 10 | 29 |
-| last60d | 2026-09-01 | 5 | 50 | 11 | 14 | 15 | 61 |
-| 90d | 2026-08-02 | 10 | 82 | 12 | 18 | 18 | 94 |
-| last180d | 2026-05-04 | 22 | 160 | 12 | 46 | 41 | 213 |
-| 360d | 2025-11-05 | 30 | 240 | 14 | 80 | 63 | 350 |
-| last720d | 2024-11-10 | 34 | 299 | 14 | 109 | 81 | 517 |
+| 30d | 2026-10-02 | 2 | 21 | 8 | 4 | 10 | 25 |
+| last60d | 2026-09-02 | 5 | 47 | 11 | 12 | 15 | 54 |
+| 90d | 2026-08-03 | 10 | 81 | 12 | 18 | 17 | 84 |
+| last180d | 2026-05-05 | 22 | 160 | 12 | 46 | 41 | 206 |
+| 360d | 2025-11-06 | 30 | 240 | 14 | 80 | 63 | 347 |
+| last720d | 2024-11-11 | 34 | 299 | 14 | 109 | 81 | 517 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T03:44:15Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T03:52:50Z._
