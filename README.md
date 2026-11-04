@@ -14,11 +14,11 @@ x install kpt
 
 ## Code insight
 
-Total: **86,610** lines of code across **1025** files in the top 5 languages.
+Total: **86,734** lines of code across **1025** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 58,994 | 9,319 | 7,060 | 310 |
+| Go | 59,118 | 9,322 | 7,068 | 310 |
 | Yaml | 17,425 | 5,407 | 307 | 621 |
 | Svg | 4,526 | 5,981 | 0 | 57 |
 | Sh | 2,412 | 648 | 363 | 18 |
@@ -33,27 +33,27 @@ Total: **86,610** lines of code across **1025** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.2-pre.2` (2026-09-25)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-03
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 1,900 · **Forks**: 274 · **Open issues**: 2,000 · **Contributors**: 134
+- **Stars**: 1,901 · **Forks**: 274 · **Open issues**: 2,000 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 2359 · **Open PRs**: 19 · **Closed issues**: 1724 · **Open issues**: 276 · **Commits**: 3187
+- **Releases**: 143 · **Merged PRs**: 2361 · **Open PRs**: 22 · **Closed issues**: 1724 · **Open issues**: 276 · **Commits**: 3189
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 20 | 11 | 4 | 10 | 25 |
-| last60d | 2026-09-04 | 5 | 46 | 14 | 10 | 15 | 54 |
-| 90d | 2026-08-05 | 10 | 77 | 15 | 18 | 17 | 84 |
-| last180d | 2026-05-07 | 22 | 158 | 15 | 46 | 41 | 206 |
-| 360d | 2025-11-08 | 30 | 240 | 17 | 80 | 63 | 347 |
-| last720d | 2024-11-13 | 34 | 299 | 17 | 109 | 81 | 517 |
+| 30d | 2026-10-05 | 2 | 22 | 14 | 4 | 10 | 27 |
+| last60d | 2026-09-05 | 5 | 48 | 17 | 10 | 15 | 56 |
+| 90d | 2026-08-06 | 10 | 76 | 18 | 18 | 17 | 86 |
+| last180d | 2026-05-08 | 22 | 160 | 18 | 46 | 40 | 208 |
+| 360d | 2025-11-09 | 30 | 241 | 20 | 80 | 63 | 349 |
+| last720d | 2024-11-14 | 34 | 301 | 20 | 109 | 81 | 519 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T04:58:27Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:29:44Z._
