@@ -38,7 +38,7 @@ Total: **86,837** lines of code across **1027** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,905 · **Forks**: 276 · **Open issues**: 2,000 · **Contributors**: 134
+- **Stars**: 1,905 · **Forks**: 277 · **Open issues**: 2,000 · **Contributors**: 134
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **86,837** lines of code across **1027** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 25 | 17 | 1 | 8 | 26 |
-| last60d | 2026-09-09 | 9 | 50 | 19 | 10 | 12 | 50 |
-| 90d | 2026-08-10 | 14 | 75 | 21 | 18 | 17 | 77 |
-| last180d | 2026-05-12 | 26 | 162 | 21 | 46 | 40 | 204 |
-| 360d | 2025-11-13 | 34 | 243 | 23 | 80 | 63 | 352 |
-| last720d | 2024-11-18 | 38 | 305 | 23 | 109 | 81 | 523 |
+| 30d | 2026-10-10 | 4 | 24 | 16 | 1 | 8 | 26 |
+| last60d | 2026-09-10 | 9 | 50 | 19 | 10 | 11 | 50 |
+| 90d | 2026-08-11 | 14 | 75 | 21 | 18 | 17 | 77 |
+| last180d | 2026-05-13 | 26 | 162 | 21 | 43 | 38 | 204 |
+| 360d | 2025-11-14 | 34 | 243 | 23 | 80 | 63 | 352 |
+| last720d | 2024-11-19 | 38 | 305 | 23 | 109 | 81 | 523 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T03:56:50Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T04:11:40Z._
