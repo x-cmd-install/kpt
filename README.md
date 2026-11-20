@@ -33,27 +33,27 @@ Total: **90,363** lines of code across **1038** files in the top 5 languages.
 ## Release
 
 - **Latest**: `cli/v1.0.2-pre.4` (2026-11-06)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 1,912 · **Forks**: 278 · **Open issues**: 2,007 · **Contributors**: 138
+- **Stars**: 1,911 · **Forks**: 278 · **Open issues**: 2,008 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 2379 · **Open PRs**: 19 · **Closed issues**: 1744 · **Open issues**: 263 · **Commits**: 3207
+- **Releases**: 147 · **Merged PRs**: 2379 · **Open PRs**: 18 · **Closed issues**: 1744 · **Open issues**: 264 · **Commits**: 3208
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 29 | 11 | 0 | 10 | 33 |
-| last60d | 2026-09-20 | 9 | 54 | 18 | 6 | 18 | 60 |
-| 90d | 2026-08-21 | 11 | 76 | 19 | 17 | 21 | 89 |
-| last180d | 2026-05-23 | 25 | 169 | 19 | 42 | 42 | 195 |
-| 360d | 2025-11-24 | 34 | 255 | 19 | 81 | 67 | 363 |
-| last720d | 2024-11-29 | 38 | 319 | 19 | 110 | 86 | 537 |
+| 30d | 2026-10-21 | 4 | 28 | 9 | 0 | 9 | 34 |
+| last60d | 2026-09-21 | 9 | 54 | 17 | 5 | 19 | 61 |
+| 90d | 2026-08-22 | 11 | 77 | 18 | 17 | 22 | 90 |
+| last180d | 2026-05-24 | 25 | 170 | 18 | 42 | 43 | 196 |
+| 360d | 2025-11-25 | 34 | 255 | 18 | 81 | 68 | 364 |
+| last720d | 2024-11-30 | 38 | 319 | 18 | 110 | 87 | 538 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T05:35:05Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:22:57Z._
