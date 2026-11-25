@@ -33,7 +33,7 @@ Total: **90,363** lines of code across **1038** files in the top 5 languages.
 ## Release
 
 - **Latest**: `cli/v1.0.2-pre.4` (2026-11-06)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-24
 - **Assets in release**: 16
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **90,363** lines of code across **1038** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 2379 · **Open PRs**: 19 · **Closed issues**: 1746 · **Open issues**: 262 · **Commits**: 3208
+- **Releases**: 147 · **Merged PRs**: 2380 · **Open PRs**: 19 · **Closed issues**: 1746 · **Open issues**: 262 · **Commits**: 3209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 27 | 11 | 1 | 8 | 21 |
-| last60d | 2026-09-25 | 8 | 49 | 18 | 6 | 16 | 51 |
-| 90d | 2026-08-26 | 11 | 76 | 19 | 18 | 20 | 88 |
-| last180d | 2026-05-28 | 24 | 167 | 19 | 44 | 41 | 189 |
-| 360d | 2025-11-29 | 34 | 254 | 19 | 80 | 66 | 361 |
-| last720d | 2024-12-04 | 38 | 319 | 19 | 112 | 85 | 538 |
+| 30d | 2026-10-26 | 4 | 27 | 11 | 1 | 8 | 22 |
+| last60d | 2026-09-26 | 7 | 50 | 18 | 6 | 16 | 52 |
+| 90d | 2026-08-27 | 11 | 76 | 19 | 18 | 20 | 89 |
+| last180d | 2026-05-29 | 24 | 166 | 19 | 43 | 41 | 190 |
+| 360d | 2025-11-30 | 34 | 255 | 19 | 80 | 66 | 362 |
+| last720d | 2024-12-05 | 38 | 320 | 19 | 112 | 85 | 539 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for kpt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T08:00:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T06:36:46Z._
